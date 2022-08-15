@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arielhenriquez
-- 👀 I’m interested in Vue
+- 👀 I’m interested in Angular
 - 🌱 I’m currently learning ASP.NET CORE WEB API
 - 📫 How to reach me https://twitter.com/waldis_ariel
 
