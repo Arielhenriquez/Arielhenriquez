@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waldis Henriquez</h1>
-<h3 align="center">I'm a Fullstack developer with 2 years of experience. I specialize in creating advanced backend solutions with .NET and Nest.js.</h3>
+<h3 align="center">I'm a Fullstack developer with 3 years of experience. I specialize in creating advanced backend solutions with .NET and Nest.js.</h3>
 
 - 🌱 I’m currently learning **Angular and frontend development.**
 
